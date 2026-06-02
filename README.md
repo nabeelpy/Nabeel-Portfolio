@@ -1,4 +1,4 @@
-# Abdullah Iqbal — Portfolio
+# Nabeel Ahmed — Portfolio
 
 Personal portfolio built with React, TypeScript, and Vite.
 
